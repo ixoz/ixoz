@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there! 👋
 🚀 Exploring the world of Android development
 
 
